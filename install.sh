@@ -16,7 +16,7 @@ git clone https://github.com/seckcoder/vim-cpp-mini-config /tmp/vim-cpp-mini-con
 cd /tmp/vim-cpp-mini-config
 
 cp -r ./bin ~/bin
-cp .bash_profile .bashrc .vimrc ~/
+cp .bash_profile .bashrc .vimrc .gitconfig ~/
 
 cp -r .vim ~/
 
